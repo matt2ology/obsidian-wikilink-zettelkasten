@@ -1,0 +1,21 @@
+# Default Ignore `.obsidian` folder - only include mentioned configuration files
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/backlink.json
+!.obsidian/canvas.json
+!.obsidian/core-plugins.json
+!.obsidian/daily-notes.json
+!.obsidian/hotkeys.json
+!.obsidian/templates.json
+!.obsidian/zk-prefixer.json
+
+# Exclude Untitled Notes - Keep the repo clean
+Untitled*
+
+# Exclude "bad" names
+null*
+
+# Add below lines to exclude OS settings and caches (Silly MacOS)
+.trash/
+.DS_Store
