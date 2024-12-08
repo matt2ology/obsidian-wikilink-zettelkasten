@@ -5,6 +5,7 @@ Create new note then apply the corresponding template
 ```mermaid
 graph TD
     s1["Media Consumed"] -->|Direct quotes manually captured, copied-pasted, typed| s3["Reference Notes"]
+    s1 -.-> s2
     s2["Content Capture and Export Tools"] -->|Processed via Apps/Services and Highlights Exported to Markdown| s3
     s3 ~~~ s4
     s4["Literature Notes"] -->|Links back to Reference Note| s3
