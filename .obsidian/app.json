@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "newFileFolderPath": "_inbox",
+  "newFileLocation": "folder",
+  "showLineNumber": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "Housekeeping/",
+    "Templates/"
+  ],
+  "vimMode": true,
+  "readableLineLength": true
+}
