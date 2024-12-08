@@ -6,7 +6,7 @@ By keeping well-structured and thoughtful housekeeping-notes, you ensure that yo
 
 1. Notes in this directory don’t directly contribute to the content of your knowledge base but serve as foundational infrastructure
 2. Note found here link to each other and to specific templates or examples within the system
-3. They generally don’t link to Reference, Literature, or Permanent Notes unless illustrating a process.
+3. They generally don’t link to Reference, Literature, or Atomic Notes unless illustrating a process.
 
 ## Advantages of Documenting Housekeeping-Notes
 
