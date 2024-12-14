@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Reference Note - {{title}}
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - reference/article
@@ -8,10 +8,10 @@ tags:
   - reference/youtube
 draft: true
 author: 
-source: "[[../01-Reference/Reference Note]]"
+source: "[[../01-Reference/Source Title]]"
 ---
 
-## Reference Note - {{title}}
+## {{title}}
 
 ## Key and Notable Highlights
 

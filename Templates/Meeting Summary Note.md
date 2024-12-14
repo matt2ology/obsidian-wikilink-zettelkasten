@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Literature Meeting Note - {{title}}
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature/meeting_summary
@@ -7,7 +7,7 @@ draft: true
 reference-note: "[[../01-Reference/Original Meeting Notes]]"
 ---
 
-## Literature Meeting Note - {{title}}
+## {{title}}
 
 ## Main Takeaways/Summary of Meeting
 

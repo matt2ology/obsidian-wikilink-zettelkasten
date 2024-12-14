@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Atomic Note - {{title}}
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - atomic
@@ -7,7 +7,7 @@ draft: true
 related-notes: "[[../03-Atomic/Related Atomic Note Topic]]"
 ---
 
-## Atomic Note - {{title}}
+## {{title}}
 
 ## Explain Like I'm 5 (ELI5): the Definition or Key Concept/Idea
 

@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Literature Note - {{title}}
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature/article
@@ -7,8 +7,8 @@ tags:
   - literature/podcast
   - literature/youtube
 draft: true
-author:
-reference-note: "[[01-Reference/Reference Note]]"
+author: 
+reference-note: "[[../01-Reference/Source Title]]"
 medium:
   - Article
   - Book
@@ -16,12 +16,12 @@ medium:
   - YouTube
 ---
 
-## Literature Note - {{title}}
+## {{title}}
 
 ## Key Ideas
 
-- Idea 1: Key point or insight. \- \[\[01-Reference/Reference Note#^Link to a block in a note|See Reference\]\]
-- Idea 2: Another point. \- \[\[01-Reference/Reference Note#^Link to a block in a note|See Reference\]\]
+- Idea 1: Key point or insight \- \[\[../01-Reference/Source Title#^3bc56b|See Reference\]\]
+- Idea 2: Another point \- \[\[../01-Reference/Source Title#^Link to a block in a note|See Reference\]\]
 
 ## Related Literature Notes
 
