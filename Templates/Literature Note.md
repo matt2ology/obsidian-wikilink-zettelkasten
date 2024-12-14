@@ -25,4 +25,4 @@ medium:
 
 ## Related Literature Notes
 
-- \[\[Link to related literature note\]\]
+- \[\[../02-Literature/Literature Note\]\]

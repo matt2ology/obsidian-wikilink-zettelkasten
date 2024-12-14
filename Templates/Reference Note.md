@@ -2,15 +2,13 @@
 title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
-  - literature
+  - reference/article
+  - reference/book
+  - reference/podcast
+  - reference/youtube
 draft: true
-author:
-source: "[[01-Reference/Reference Note]]"
-medium:
-  - Article
-  - Book
-  - Podcasts
-  - YouTube
+author: 
+source: "[[../01-Reference/Reference Note]]"
 ---
 
 ## Reference Note - {{title}}
@@ -22,4 +20,4 @@ medium:
 
 ## Related Literature Notes
 
-- \[\[Link to related literature note\]\]
+- \[\[../02-Literature/Related Literature Note\]\]

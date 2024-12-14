@@ -4,8 +4,6 @@ date: "{{date:YYYY-MM-DD}}"
 tags:
   - reference/meeting
 draft: true
-medium:
-  - Meeting
 ---
 
 ## {{title}}

@@ -2,8 +2,7 @@
 title: Daily Note - {{date:YYYY-MM-DD}}
 date: "{{date:YYYY-MM-DD}}"
 tags:
-  - daily
-  - journal
+  - daily/log
 draft: true
 ---
 

@@ -2,19 +2,17 @@
 title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
-  - literature/meeting
+  - literature/meeting_summary
 draft: true
-reference-note: "[[01-Reference/Reference Note]]"
-medium:
-  - Meeting
+reference-note: "[[../01-Reference/Original Meeting Notes]]"
 ---
 
 ## Literature Meeting Note - {{title}}
 
 ## Main Takeaways/Summary of Meeting
 
-- Idea 1: Key point or insight. \- \[\[01-Reference/Reference Note#^Link to a block in a note|See Reference\]\]
+- Idea 1: Key point or insight. \- \[\[../01-Reference/Reference Note#^Link to a block in a note|See Reference\]\]
 
-## Related Literature Notes
+## Related Meeting Summaries
 
-- \[\[Link to related literature note\]\]
+- \[\[../02-Literature/Related Summary of a Meeting\]\]

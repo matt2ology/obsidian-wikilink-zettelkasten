@@ -4,7 +4,7 @@ date: "{{date:YYYY-MM-DD}}"
 tags:
   - atomic
 draft: true
-related-notes:
+related-notes: "[[../03-Atomic/Related Atomic Note Topic]]"
 ---
 
 ## Atomic Note - {{title}}
