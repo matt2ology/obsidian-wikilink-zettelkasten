@@ -3,7 +3,7 @@ title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - atomic
-draft: false
+draft: true
 related-notes:
 ---
 

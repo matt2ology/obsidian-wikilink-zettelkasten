@@ -4,7 +4,7 @@ date: "{{date:YYYY-MM-DD}}"
 tags:
   - daily
   - journal
-draft: false
+draft: true
 ---
 
 ## Daily Log for {{date:dddd, MMMM D, YYYY}}

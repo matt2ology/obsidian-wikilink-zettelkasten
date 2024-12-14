@@ -3,7 +3,7 @@ title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature
-draft: false
+draft: true
 author:
 source: "[[01-Reference/Reference Note]]"
 medium:

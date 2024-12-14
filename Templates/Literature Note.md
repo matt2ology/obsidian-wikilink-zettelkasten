@@ -6,7 +6,7 @@ tags:
   - literature/book
   - literature/podcast
   - literature/youtube
-draft: false
+draft: true
 author:
 reference-note: "[[01-Reference/Reference Note]]"
 medium:

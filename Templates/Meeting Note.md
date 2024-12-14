@@ -3,7 +3,7 @@ title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - reference/meeting
-draft: false
+draft: true
 medium:
   - Meeting
 ---

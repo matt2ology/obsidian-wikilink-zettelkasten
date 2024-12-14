@@ -3,7 +3,7 @@ title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
 tags:
   - literature/meeting
-draft: false
+draft: true
 reference-note: "[[01-Reference/Reference Note]]"
 medium:
   - Meeting
